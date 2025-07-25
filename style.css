@@ -1,0 +1,67 @@
+.container-fluid{
+    height: 100px;
+    background-color: #FFDBDB;
+}
+.logo{
+    height: 110px;
+    
+}
+.navbar-brand{
+    color: #644A07;
+    font-family: cursive;
+}
+.navbar-toggler{
+    color: #644A07;
+}
+.navbar-toggler-icon{
+    color: #FFDBDB;
+}
+/* under navbar */
+nav{
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+.text-bg{
+    background-color: #644A07;
+}
+.offcanvas-title{
+    color: #FFDBDB;
+
+}
+.pink{
+    color: #FFDBDB;
+}
+.brown{
+    color: #644A07;
+}
+.bg-btn{
+    background-color: #FFDBDB;
+    border: none;
+}
+section
+{
+    
+    padding-top: 100px;
+}
+/* adds */
+.image-top{
+    width: 100%;
+
+}
+.card-img-top{
+    width: 100%;
+    height: 394px;
+    object-fit: cover;
+
+}
+.card{
+    margin: 40px;
+}
+.btn{
+    background-color: #FFDBDB;
+    border: solid #644A07;
+}
+.catagory{
+    margin-left: 110px;
+}
